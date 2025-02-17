@@ -1,5 +1,5 @@
 # AirlineCustomerSatisfactionAnalysis
-We use dataset from Kaggle which is about airline customer satisfaction, to perform machine learning using method such as logistic regression, decision tree, bagging and boosting to solve classification problem: Predicting what factors will lead to satisfaction or dissatisfaction of customers.
+This project analyzes airline customer satisfaction data from Kaggle, employing machine learning techniques (logistic regression, decision trees, bagging, and boosting) to predict customer satisfaction based on key influencing factors.
 
 Introduction
 With the rapid expansion of the global airline business, most travelers choose their favorite airlines for a comfortable flight and plan their itineraries based on the level and quality of service provided by each airline. In order to increase customer satisfaction, improve service quality, and attract more potential customers, it is necessary to have a comprehensive understanding of consumer preferences. The objective of this project is to analyze the passenger satisfaction in the airline industry. Since consumer satisfaction is a key indicator for the success of airlines, our main objective is to develop a predictive model to accurately determine the key variables that affect consumer satisfaction.
